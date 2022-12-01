@@ -1,0 +1,19 @@
+<UserWrapper>
+  <users>
+    <users>
+      <name>admin</name>
+      <password>admin</password>
+      <role>ADMIN</role>
+    </users>
+    <users>
+      <name>user</name>
+      <password>user</password>
+      <role>USER</role>
+    </users>
+    <users>
+      <name>someone</name>
+      <password>someone</password>
+      <role>USER</role>
+    </users>
+  </users>
+</UserWrapper>
